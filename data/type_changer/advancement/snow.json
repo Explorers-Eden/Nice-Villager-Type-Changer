@@ -20,6 +20,6 @@
     }
   },
   "rewards": {
-    "function": "nvr:type_changer/snow"
+    "function": "type_changer:snow"
   }
 }

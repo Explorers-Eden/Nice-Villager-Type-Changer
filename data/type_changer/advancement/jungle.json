@@ -20,6 +20,6 @@
     }
   },
   "rewards": {
-    "function": "nvr:type_changer/jungle"
+    "function": "type_changer:jungle"
   }
 }

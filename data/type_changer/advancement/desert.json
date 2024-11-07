@@ -20,6 +20,6 @@
     }
   },
   "rewards": {
-    "function": "nvr:type_changer/desert"
+    "function": "type_changer:desert"
   }
 }

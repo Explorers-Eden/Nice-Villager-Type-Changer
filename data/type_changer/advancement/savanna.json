@@ -20,6 +20,6 @@
     }
   },
   "rewards": {
-    "function": "nvr:type_changer/savanna"
+    "function": "type_changer:savanna"
   }
 }

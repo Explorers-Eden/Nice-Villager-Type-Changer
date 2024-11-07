@@ -20,6 +20,6 @@
     }
   },
   "rewards": {
-    "function": "nvr:type_changer/taiga"
+    "function": "type_changer:taiga"
   }
 }

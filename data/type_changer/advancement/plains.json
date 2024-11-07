@@ -20,6 +20,6 @@
     }
   },
   "rewards": {
-    "function": "nvr:type_changer/plains"
+    "function": "type_changer:plains"
   }
 }
