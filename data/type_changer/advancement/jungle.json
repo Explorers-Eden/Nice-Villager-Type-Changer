@@ -20,6 +20,6 @@
     }
   },
   "rewards": {
-    "function": "type_changer:jungle"
+    "function": "type_changer:jungle/init"
   }
 }

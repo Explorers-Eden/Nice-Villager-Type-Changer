@@ -20,6 +20,6 @@
     }
   },
   "rewards": {
-    "function": "type_changer:swamp"
+    "function": "type_changer:swamp/init"
   }
 }
