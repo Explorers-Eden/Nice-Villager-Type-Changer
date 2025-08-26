@@ -1,3 +1,5 @@
+$data modify storage eden:settings type_changer merge value {desert_item:"$(desert_item)",jungle_item:"$(jungle_item)",plains_item:"$(plains_item)",savanna_item:"$(savanna_item)",snow_item:"$(snow_item)",swamp_item:"$(swamp_item)",taiga_item:"$(taiga_item)"}
+
 $data modify storage eden:settings type_changer.desert_initial set value $(desert)
 execute store result storage eden:settings type_changer.desert float 0.01 run data get storage eden:settings type_changer.desert_initial
 
