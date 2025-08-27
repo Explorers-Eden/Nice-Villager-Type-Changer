@@ -12,3 +12,6 @@ execute unless data storage eden:settings type_changer.desert_item run data modi
     taiga_item:"minecraft:spruce_sapling",\
     command_template:"function type_changer:dialog/command_template/config {desert_item:\'$(desert_item)\',jungle_item:\'$(jungle_item)\',plains_item:\'$(plains_item)\',savanna_item:\'$(savanna_item)\',snow_item:\'$(snow_item)\',swamp_item:\'$(swamp_item)\',taiga_item:\'$(taiga_item)\',desert:$(desert),jungle:$(jungle),plains:$(plains),savanna:$(savanna),snow:$(snow),swamp:$(swamp),taiga:$(taiga)}"\
 }
+
+##set data pack version
+data modify storage eden:datapack nice_villager_type_changer.version set value "2.0"
