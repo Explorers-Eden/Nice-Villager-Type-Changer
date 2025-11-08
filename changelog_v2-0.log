@@ -1,6 +1,0 @@
-## Changes:
-- restructured some code
-- item used to change a villagers type can now be defined in the config menu
-- changed default item used for changing a type to snow to minecraft:snow_block (was minecraft:snow)
-- added lang file for en_us: Translations can be submitted on our [Crowdin Page](https://crowdin.com/project/explorers-eden)
-- added check to prevent trying to change a villager type to the type it already has

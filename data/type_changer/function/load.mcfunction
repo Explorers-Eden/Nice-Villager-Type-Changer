@@ -14,4 +14,4 @@ execute unless data storage eden:settings type_changer.desert_item run data modi
 }
 
 ##set data pack version
-data modify storage eden:datapack nice_villager_type_changer.version set value "2.0"
+data modify storage eden:datapack nice_villager_type_changer.version set value "2.1"
